@@ -1,4 +1,4 @@
-" Name:         Gruvbox 8
+" Name:         
 " Description:  Retro groove color scheme originally designed by morhetz
 " Author:       morhetz <morhetz@gmail.com>
 " Maintainer:   Lifepillar <lifepillar@lifepillar.me>
