@@ -1,9 +1,9 @@
 ; vim: ft=colortemplate
 
-Author:          morhetz <morhetz@gmail.com>
-Maintainer:      Lifepillar <lifepillar@lifepillar.me>
-Website:         https://github.com/lifepillar/vim-gruvbox8/
-Description:     Retro groove color scheme originally designed by morhetz
-Option Prefix:   gruvbox
+Author:          jdonaldson <jdonaldson@gmail.com> 
+Maintainer:      jdonaldson <jdonaldson@gmail.com> 
+Website:         https://github.com/jdonaldson/vim-pumpkinspice/
+Description:     silly fall-based theme based on gruvbox 
+Option Prefix:   pumpkinspice
 Neovim:          yes
 

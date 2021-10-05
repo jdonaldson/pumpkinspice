@@ -1,8 +1,5 @@
 ; vim: ft=colortemplate fdm=marker noet ts=8 tw=78
 
-; These are options for features that were in the original Gruvbox but were
-; removed in Gruvbox 8.
-
 documentation
 						*g:@optionprefix_improved_strings*
 Set to 1 if you want strings with a lighter background.
