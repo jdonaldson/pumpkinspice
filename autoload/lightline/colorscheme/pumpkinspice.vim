@@ -7,8 +7,8 @@ if &background ==# 'dark'
   let s:fg1 = [ '#ebdbb2', 187 ]
   let s:fg4 = [ '#a89984', 137 ]
 
-  let s:green  = [ '#98971a', 100 ]
-  let s:yellow = [ '#d79921', 172 ]
+  let s:green  = [ '#64641a', 100 ]
+  let s:yellow = [ '#c89921', 172 ]
   let s:blue   = [ '#458588', 66 ]
   let s:aqua   = [ '#689d6a', 71 ]
   let s:orange = [ '#d65d0e', 166 ]
@@ -59,8 +59,8 @@ if &background ==# 'light'
   let s:fg1 = [ '#3c3836', 237 ]
   let s:fg4 = [ '#7c6f64', 243 ]
 
-  let s:green  = [ '#98971a', 100 ]
-  let s:yellow = [ '#d79921', 172 ]
+  let s:green  = [ '#64641a', 100 ]
+  let s:yellow = [ '#c89921', 172 ]
   let s:blue   = [ '#458588', 66 ]
   let s:aqua   = [ '#689d6a', 71 ]
   let s:orange = [ '#d65d0e', 166 ]
